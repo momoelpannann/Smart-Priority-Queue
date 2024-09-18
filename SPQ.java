@@ -1,5 +1,4 @@
 // Programming Assignment 3
-// Authors: Ahmad Saadawi (Student ID: 40262211) & Mohamed Elpannann (Student ID: 40251343)
 // Smart Priority Queue implementation using a min or max heap
 // This class implements a smart priority queue (SPQ) that can be toggled between a min-heap and a max-heap.
 // It utilizes a inner class Entry to store key-value pairs.
